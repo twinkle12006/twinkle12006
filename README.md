@@ -36,3 +36,11 @@ Built using Python Flask with speech processing libraries and responsive fronten
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gajula-siri-chandana
 - LeetCode: https://leetcode.com/u/HEhtj22Tor/
+
+- ---
+
+## 📊 GitHub Stats
+
+![Siri's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinkle12006&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twinkle12006&layout=compact)
