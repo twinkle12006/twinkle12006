@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Gajula Siri Chandana
 
-<!--
-**twinkle12006/twinkle12006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Java & Full Stack Developer
+- 🌐 Building Real-Time Web Applications
+- 📚 Solving DSA problems on LeetCode
+- 🎯 Interested in Software Engineering & Backend Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 DeskMate – Real-Time Automation Platform
+Built a real-time automation platform using React.js, Node.js, Express.js, and WebSockets.
+
+### 🚗 Smart Parking Project
+Developed a smart parking management interface with responsive UI and dynamic parking visualization.
+
+### 🎤 Text-to-Speech & Speech-to-Text Converter
+Built using Python Flask with speech processing libraries and responsive frontend integration.
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gajula-siri-chandana
+- LeetCode: https://leetcode.com/u/HEhtj22Tor/
